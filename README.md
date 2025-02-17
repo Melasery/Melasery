@@ -6,40 +6,35 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 
 ---
 
-## 🚀 Featured Projects  
+## 💻 Software Development Projects
 
-### 🔹 **MIPS Simulator**
-- **Language**: C  
-- **Description**: A **MIPS simulator** that interprets and executes MIPS assembly instructions. Includes memory handling, instruction parsing, and execution logic.  
-- **Repository**: [MIPS-Simulator](https://github.com/Melasery/mips-simulator)  
+- **[MIPS Simulator](https://github.com/Melasery/mips-simulator)**
+  - Built a **MIPS assembly simulator** in **C** that simulates instruction execution and memory management.
 
----
+- **[Tic-Tac-Toe AI](https://github.com/Melasery/tic-tac-toe-ai)**
+  - Implemented a **Tic-Tac-Toe game** with **AI reinforcement learning** in **Standard ML**, allowing the AI to improve its gameplay over time.
 
-### 🔹 **AI-Powered Robot Controller**
-- **Language**: Python  
-- **Description**: A **multifunctional AI-controlled robot** using **Raspberry Pi and Arduino**, featuring **object detection, language translation, and virtual tour guidance**. Also includes a **FastAPI web interface** for remote control.  
-- **Repository**: [MAR-XXV Robot Controller](https://github.com/Melasery/mar-xxv-robot-controller)  
+- **[SML Text Classifier](https://github.com/Melasery/sml-text-classifier)**
+  - Developed a **text classification system** in **Standard ML** using **functional programming techniques** and a **custom dictionary-based approach**.
 
 ---
 
-### 🔹 **Happiness Analysis Across Countries (2015-2019)**
-- **Language**: Python (Jupyter Notebook)  
-- **Description**: Data analysis project using **World Happiness Report datasets**, applying **data cleaning, visualization, correlation analysis, and predictive modeling with linear regression**.  
-- **Repository**: [Happiness Analysis](https://github.com/Melasery/happiness-analysis)  
+## 📊 Data & AI Projects
+
+- **[Happiness Analysis](https://github.com/Melasery/happiness-analysis)**
+  - Analyzed the **World Happiness Report (2015-2019)** to identify key happiness determinants using **Python, Pandas, and Machine Learning (Linear Regression)**.
+
+- **[AI-Powered Robot Controller](https://github.com/Melasery/mar-xxv-robot-controller)**
+  - Developed a **multifunctional AI-controlled robot** using **Raspberry Pi, Arduino, OpenCV, and FastAPI**.
+  - Features include **object detection, language translation, and remote control through a live-streaming web interface**.
 
 ---
 
-### 🔹 **SML Text Classifier**
-- **Language**: Standard ML  
-- **Description**: A **text classification system** using **functional programming techniques** in SML. Implements **tokenization, dictionary structures, and classification logic**.  
-- **Repository**: [SML Text Classifier](https://github.com/Melasery/sml-text-classifier)  
+## 🌐 Web Development Projects
 
----
-
-### 🔹 **Tic-Tac-Toe AI**
-- **Language**: Standard ML  
-- **Description**: A **Tic-Tac-Toe AI** using **reinforcement learning**, implemented in **Standard ML**. The AI learns optimal strategies using **self-play and game state evaluation**.  
-- **Repository**: [Tic-Tac-Toe AI](https://github.com/Melasery/tic-tac-toe-ai)  
+- **[Wesleyan African Scholars Website](https://marouan.wescreates.wesleyan.edu/)**
+  - Built and designed the official website for the **Wesleyan African Scholars Program** using **WordPress**.
+  - Focused on **content organization, UI/UX, and accessibility**.
 
 ---
 
