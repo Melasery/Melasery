@@ -3,7 +3,6 @@
 
 I'm a **Computer Science major with a focus on Data Analysis**, passionate about **software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
 
-Currently, I'm actively seeking **Software Engineering** and **Data Analyst** internship opportunities.  
 
 ---
 
