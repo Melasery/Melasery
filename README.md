@@ -32,7 +32,7 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 
 ## 🌐 Web Development Projects
 
-- **[Wesleyan African Scholars Website](https://africanscholars.wescreates.wesleyan.edu)**
+- **[Wesleyan African Scholars Website](https://marouan.wescreates.wesleyan.edu)**
   - Built and designed the official website for the **Wesleyan African Scholars Program** using **WordPress**.
   - Focused on **content organization, UI/UX, and accessibility**.
 
