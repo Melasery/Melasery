@@ -39,15 +39,17 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 ---
 
 ## 🛠️ Skills & Technologies  
+
 ### **Languages**
-- **Python**, **C**, **Standard ML**, **JavaScript**, **SQL**
-  
-### **Technologies & Frameworks**
-- **Machine Learning** (scikit-learn, NumPy, Pandas)  
-- **Data Analysis & Visualization** (Matplotlib, Seaborn)  
-- **Back-end Development** (FastAPI, Flask)  
-- **Front-end Development** (HTML, CSS, JavaScript)  
-- **Embedded Systems** (Raspberry Pi, Arduino)  
+Python, JavaScript (ES6+), SQL, Java, C, C++, C#, R, PHP, MIPS, SML
+### **Frameworks & Libraries** 
+React, Node.js, .NET (C#), Flask, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn, SwiftUI, Ruby on Rails
+### **Tools & Technologies** 
+Git, MySQL, Google BigQuery, Apache, Tableau, Power BI, Excel (Advanced), Jupyter Notebook, Datadog, Webpack, HTML, CSS, Microsoft Office Suite
+### **Platforms** 
+XAMPP, Slack, Microsoft Azure
+### **Embedded Systems** 
+Raspberry Pi, Arduino 
 
 ---
 
