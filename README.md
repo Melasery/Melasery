@@ -1,12 +1,17 @@
-# Hi, I'm Marouan El-Asery! 👋  
-### Software Engineer | Data Analyst | AI Enthusiast  
+# Hi, I'm Marouan El-Asery!  
+### Computational Knitter | Software Engineer | Data Analyst | AI Enthusiast  
 
 I'm a **Computer Science major with a focus on Data Analysis**, passionate about **software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
-
+https://github.com/Melasery/sensor-pattern-knitout
 
 ---
 
-## 💻 Software Development Projects
+## Computational Knitting
+- **[Sensor Pattern](https://github.com/Melasery/sensor-pattern-knitout)**
+  -  Implemented knitout code for the sensor pattern that was designed by Dr. Sonia Roberts in the Soft Robots Lab at Wesleyan University.
+---
+
+## Software Development Projects
 
 - **[MIPS Simulator](https://github.com/Melasery/mips-simulator)**
   - Built a **MIPS assembly simulator** in **C** that simulates instruction execution and memory management.
@@ -19,7 +24,7 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 
 ---
 
-## 📊 Data & AI Projects
+## Data & AI Projects
 
 - **[Happiness Analysis](https://github.com/Melasery/happiness-analysis)**
   - Analyzed the **World Happiness Report (2015-2019)** to identify key happiness determinants using **Python, Pandas, and Machine Learning (Linear Regression)**.
@@ -30,7 +35,7 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 
 ---
 
-## 🌐 Web Development Projects
+## Web Development Projects
 
 - **[Wesleyan African Scholars Website](https://marouan.wescreates.wesleyan.edu)**
   - Built and designed the official website for the **Wesleyan African Scholars Program** using **WordPress**.
@@ -38,7 +43,7 @@ I'm a **Computer Science major with a focus on Data Analysis**, passionate about
 
 ---
 
-## 🛠️ Skills & Technologies  
+## Skills & Technologies  
 
 ### **Languages**
 Python, JavaScript (ES6+), SQL, Java, C, C++, C#, R, PHP, MIPS, SML
@@ -53,6 +58,6 @@ Raspberry Pi, Arduino
 
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 - **Email**: [melasery@wesleyan.edu](mailto:melasery@wesleyan.edu)
   
