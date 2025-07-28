@@ -1,7 +1,7 @@
 # Hi, I'm Marouan El-Asery!  
 ### Computational Knitter | Software Engineer | Data Analyst | AI Enthusiast  
 
-I'm a **Computer Science major with a focus on Data Analysis**, passionate about **software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
+I'm a **Computer Science major with Physics**, passionate about **computtional knitting, software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
 https://github.com/Melasery/sensor-pattern-knitout
 
 ---
