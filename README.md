@@ -2,12 +2,12 @@
 ### Computational Knitter | Software Engineer | Data Analyst | AI Enthusiast  
 
 I'm a **Computer Science major with Physics**, passionate about **computtional knitting, software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
-https://github.com/Melasery/sensor-pattern-knitout
+
 
 ---
 
 ## Computational Knitting
-- **[Sensor Pattern](https://github.com/Melasery/sensor-pattern-knitout)**
+- **[Sensor Pattern Knitout](https://github.com/Melasery/sensor-pattern-knitout)**
   -  Implemented knitout code for the sensor pattern that was designed by Dr. Sonia Roberts in the Soft Robots Lab at Wesleyan University.
 ---
 
