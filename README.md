@@ -7,6 +7,8 @@ I'm a **Computer Science major with Physics**, passionate about **computtional k
 ---
 
 ## Computational Knitting
+
+
 - **[Sensor Pattern Knitout](https://github.com/Melasery/sensor-pattern-knitout)**
   -  Implemented knitout code for the sensor pattern that was designed by Dr. Sonia Roberts in the Soft Robots Lab at Wesleyan University.
 ---
@@ -46,7 +48,7 @@ I'm a **Computer Science major with Physics**, passionate about **computtional k
 ## Skills & Technologies  
 
 ### **Languages**
-Python, JavaScript (ES6+), SQL, Java, C, C++, C#, R, PHP, MIPS, SML
+Python, JavaScript (ES6+), SQL, Java, C, C++, C#, R, PHP, MIPS, SML, Knitout, KnitScript
 ### **Frameworks & Libraries** 
 React, Node.js, .NET (C#), Flask, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn, SwiftUI, Ruby on Rails
 ### **Tools & Technologies** 
