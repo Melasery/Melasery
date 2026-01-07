@@ -24,7 +24,6 @@ Designing knit micro-geometry and material routing to produce reliable sensing a
 - **[mycelium-knit-modules](https://github.com/Melasery/mycelium-knit-modules)**: Modular machine-knit structures for bio-architectural mycelium pillows.
 
 ### Robotics and Embedded Systems
-- **[mar-xxv-robot-controller](https://github.com/Melasery/mar-xxv-robot-controller)**: Closed-loop AI robot controller with object detection and live-streaming.
 - **[mips-simulator](https://github.com/Melasery/mips-simulator)**: MIPS architecture simulator developed in C.
 
 ### Software Engineering and Data Science
