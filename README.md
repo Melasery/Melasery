@@ -1,65 +1,44 @@
-# Hi, I'm Marouan El-Asery!  
-### Computational Knitter | Software Engineer | Data Analyst | AI Enthusiast  
+# Marouan El-Asery
 
-I'm a **Computer Science major with Physics**, passionate about **computtional knitting, software development, AI, and computational systems**. My expertise spans **full-stack development, algorithmic problem-solving, data analysis, and machine learning**.  
-
-
----
-
-## Computational Knitting
-
-
-- **[Sensor Pattern Knitout](https://github.com/Melasery/sensor-pattern-knitout)**
-  -  Implemented knitout code for the sensor pattern that was designed by Dr. Sonia Roberts in the Soft Robots Lab at Wesleyan University.
----
-
-## Software Development Projects
-
-- **[MIPS Simulator](https://github.com/Melasery/mips-simulator)**
-  - Built a **MIPS assembly simulator** in **C** that simulates instruction execution and memory management.
-
-- **[Tic-Tac-Toe AI](https://github.com/Melasery/tic-tac-toe-ai)**
-  - Implemented a **Tic-Tac-Toe game** with **AI reinforcement learning** in **Standard ML**, allowing the AI to improve its gameplay over time.
-
-- **[SML Text Classifier](https://github.com/Melasery/sml-text-classifier)**
-  - Developed a **text classification system** in **Standard ML** using **functional programming techniques** and a **custom dictionary-based approach**.
+**Computational Textiles & Soft Systems**  
+*Building machine-knit interfaces and the pipelines that make them reproducible.*
 
 ---
 
-## Data & AI Projects
+## Technical Focus
 
-- **[Happiness Analysis](https://github.com/Melasery/happiness-analysis)**
-  - Analyzed the **World Happiness Report (2015-2019)** to identify key happiness determinants using **Python, Pandas, and Machine Learning (Linear Regression)**.
+Designing knit micro-geometry and material routing to produce reliable sensing and thermal behavior, with a focus on closed-loop control and versioned fabrication.
 
-- **[AI-Powered Robot Controller](https://github.com/Melasery/mar-xxv-robot-controller)**
-  - Developed a **multifunctional AI-controlled robot** using **Raspberry Pi, Arduino, OpenCV, and FastAPI**.
-  - Features include **object detection, language translation, and remote control through a live-streaming web interface**.
-
----
-
-## Web Development Projects
-
-- **[Wesleyan African Scholars Website](https://marouan.wescreates.wesleyan.edu)**
-  - Built and designed the official website for the **Wesleyan African Scholars Program** using **WordPress**.
-  - Focused on **content organization, UI/UX, and accessibility**.
+- **Textile Structure → Behavior**: Knit design for reliable sensing and thermal performance.
+- **Closed-Loop Systems**: Coupling textile heaters/sensors with PID control theory.
+- **Fabrication as Software**: Reproducible, code-driven manufacturing pipelines.
 
 ---
 
-## Skills & Technologies  
+## Projects
 
-### **Languages**
-Python, JavaScript (ES6+), SQL, Java, C, C++, C#, R, PHP, MIPS, SML, Knitout, KnitScript
-### **Frameworks & Libraries** 
-React, Node.js, .NET (C#), Flask, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn, SwiftUI, Ruby on Rails
-### **Tools & Technologies** 
-Git, MySQL, Google BigQuery, Apache, Tableau, Power BI, Excel (Advanced), Jupyter Notebook, Datadog, Webpack, HTML, CSS, Microsoft Office Suite
-### **Platforms** 
-XAMPP, Slack, Microsoft Azure
-### **Embedded Systems** 
-Raspberry Pi, Arduino 
+### 🧶 Computational Textiles & Fabrication
+- **[Zelix](https://github.com/Melasery/Zelix)**: Procedural generation of Moroccan Zelij patterns for tubular jacquard machine knitting.
+- **[thermal-wearables-pid-control](https://github.com/Melasery/thermal-wearables-pid-control)**: Real-time PID control system for machine-knit thermal wearables.
+- **[mycelium-knit-modules](https://github.com/Melasery/mycelium-knit-modules)**: Modular machine-knit structures for bio-architectural mycelium pillows.
+- **[sensor-pattern-knitout](https://github.com/Melasery/sensor-pattern-knitout)**: Low-level control of machine-knit soft robotic sensors.
+
+### 🤖 Robotics & Embedded Systems
+- **[mar-xxv-robot-controller](https://github.com/Melasery/mar-xxv-robot-controller)**: Closed-loop AI robot controller with object detection and live-streaming.
+- **[mips-simulator](https://github.com/Melasery/mips-simulator)**: MIPS architecture simulator developed in C.
+
+### 🧪 Software Engineering & Data Science
+- **[tic-tac-toe-ai](https://github.com/Melasery/tic-tac-toe-ai)**: Reinforcement learning agent implemented in Standard ML.
+- **[sml-text-classifier](https://github.com/Melasery/sml-text-classifier)**: Naive Bayes classification system utilizing MapReduce patterns.
+- **[happiness-analysis](https://github.com/Melasery/happiness-analysis)**: Statistical and ML evaluation of the World Happiness Report.
 
 ---
 
-## Let's Connect!  
-- **Email**: [melasery@wesleyan.edu](mailto:melasery@wesleyan.edu)
-  
+## Skills
+
+**Languages**: Python, Knitout, C/C++, Standard ML, JavaScript (ES6+), Java, SQL, R  
+**Technologies**: PID Control, Embedded Systems (Arduino/RPi), Open-CV, Scikit-Learn, Pandas, Node.js, React  
+
+---
+
+[**Explore My Portfolio →**](https://Melasery.github.io)
