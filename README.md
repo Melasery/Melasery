@@ -27,7 +27,7 @@ Designing knit micro-geometry and material routing to produce reliable sensing a
 - **[mips-simulator](https://github.com/Melasery/mips-simulator)**: MIPS architecture simulator developed in C.
 
 ### Software Engineering and Data Science
--**[NeuroTune – AI Music Discovery & Rating App](https://github.com/Melasery/COMP333-SWE/commit/352bb5912e4a7316ea6fc218290317f908cbe93b)**:Full-stack CRUD web app with authentication, REST endpoints, and MySQL persistence (hashed passwords, parameterized queries, sessions).
+- **[NeuroTune – AI Music Discovery & Rating App](https://github.com/Melasery/COMP333-SWE/commit/352bb5912e4a7316ea6fc218290317f908cbe93b)**: Full-stack CRUD web app with authentication, REST endpoints, and MySQL persistence (hashed passwords, parameterized queries, sessions).
 - **[tic-tac-toe-ai](https://github.com/Melasery/tic-tac-toe-ai)**: Reinforcement learning agent implemented in Standard ML.
 - **[sml-text-classifier](https://github.com/Melasery/sml-text-classifier)**: Naive Bayes classification system utilizing MapReduce patterns.
 - **[happiness-analysis](https://github.com/Melasery/happiness-analysis)**: Statistical and ML evaluation of the World Happiness Report.
